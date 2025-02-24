@@ -1,9 +1,9 @@
 cff-version: 1.1.0
 message: "If you use this software and hardware, please cite it as below."
 authors:
-  Ran Huo
-affiliation:
-  Linköping University
+- family-names: "Huo"
+  given-names: "Ran"
+  orcid:
+title: "QUNET: Efficient Quantum Error Correction on FPGAs with Quantized U-Net Neural Decoders"
 version: v1.0
 date-released: 2025-02-24
-                                
